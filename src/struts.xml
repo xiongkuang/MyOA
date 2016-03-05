@@ -10,7 +10,7 @@
     <constant name="struts.ui.theme" value="simple"/>
     
     <package name="default" extends="struts-default">
-        <action name="test" class="com.MyOa.test.TestAction">
+        <action name="test" class="mySpringTestAction">
             <result name="success">test.jsp</result>
         </action>
     </package>

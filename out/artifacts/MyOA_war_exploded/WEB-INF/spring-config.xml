@@ -7,7 +7,7 @@
 
     <context:component-scan base-package="com.MyOa"></context:component-scan>
 
-
+    <bean id="mySpringTestAction" class="com.MyOa.test.TestAction"></bean>
 
 
 </beans>

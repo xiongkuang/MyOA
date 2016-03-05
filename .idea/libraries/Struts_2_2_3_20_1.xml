@@ -13,6 +13,7 @@
       <root url="jar://$PROJECT_DIR$/lib/asm-commons.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/javassist.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/commons-lang.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/struts-2.3.24.1/lib/struts2-spring-plugin-2.3.24.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
