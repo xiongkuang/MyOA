@@ -4,15 +4,22 @@
         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
     <session-factory>
-        <property name="dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+        <!--
         <property name="connection.url">jdbc:mysql:///bgpOA</property>
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
         <property name="connection.username">root</property>
         <property name="connection.password">123456</property>
+        -->
 
         <property name="show_sql">true</property>
         <property name="hbm2ddl.auto">update</property>
         <!-- DB schema will be updated if needed -->
         <!-- <property name="hbm2ddl.auto">update</property> -->
+
+
+        <!-- import mapping file -->
+        <mapping resource="com/MyOa/domain/User.hbm.xml"/>
+
     </session-factory>
 </hibernate-configuration>
