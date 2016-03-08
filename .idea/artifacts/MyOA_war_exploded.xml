@@ -14,6 +14,7 @@
           <element id="library" level="project" name="mysql-connector-java-5.1.38-bin" />
           <element id="library" level="project" name="junit-4.12" />
           <element id="library" level="project" name="c3p0-0.9.5.2" />
+          <element id="library" level="project" name="slf4j-api-1.7.18" />
         </element>
       </element>
     </root>
