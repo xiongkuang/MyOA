@@ -13,7 +13,7 @@
       <facet type="Struts2" name="Struts 2">
         <configuration>
           <fileset id="s2fileset" name="Default File Set " removed="false">
-            <file>file://$MODULE_DIR$/src/struts.xml</file>
+            <file>file://$MODULE_DIR$/config/struts.xml</file>
             <file>jar://$MODULE_DIR$/lib/struts2-core.jar!/struts-default.xml</file>
           </fileset>
           <propertiesKeys disabled="false" />
@@ -34,7 +34,7 @@
           <unit-entry name="sessionFactory" />
         </datasource-map>
         <naming-strategy-map />
-        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/src/hibernate.cfg.xml" />
+        <deploymentDescriptor name="hibernate.cfg.xml" url="file://$MODULE_DIR$/config/hibernate.cfg.xml" />
       </configuration>
     </facet>
   </component>
@@ -42,6 +42,8 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/config" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
