@@ -13,9 +13,15 @@
   </head>
   <body>
   <s:iterator value="%{#roleList}">
-    <s:property value="id"/>
-    <s:property value="name"/>
-    <s:property value="description"/>
+    <%--use EL expression--%>
+      ${id},
+      ${name},
+      ${description},
+      <%--
+      <s:property value="id"/>
+      <s:property value="name"/>
+      <s:property value="description"/>
+      --%>
     <s:a action="role_delete?id=%{id}" onclick="return confirm('Delete?')">Delete</s:a>
     <s:a action="role_editUI?id=%{id}">Edit</s:a>
     <br/>
