@@ -49,13 +49,14 @@ public class RoleAction extends ActionSupport implements ModelDriven {
     }
 
     public String add() throws Exception{
-        //encapsulate to object
-        Role role = new Role();
-        role.setName(model.getName());
-        role.setDescription(model.getDescription());
-
-        //save to database
-        roleService.save(role);
+//        //encapsulate to object
+//        Role role = new Role();
+//        role.setName(model.getName());
+//        role.setDescription(model.getDescription());
+//
+//        //save to database
+//        roleService.save(role);
+        roleService.save(model);
 
         return "toList";
     }
