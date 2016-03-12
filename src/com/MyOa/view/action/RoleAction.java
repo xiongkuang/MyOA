@@ -45,7 +45,7 @@ public class RoleAction extends ActionSupport implements ModelDriven {
     }
 
     public String addUI() throws Exception{
-        return "addUI";
+        return "saveUI";
     }
 
     public String add() throws Exception{
@@ -67,7 +67,7 @@ public class RoleAction extends ActionSupport implements ModelDriven {
         ActionContext.getContext().getValueStack().push(role);//use ognl to find value in stack
         //this.name = role.getName();
         //this.description = role.getDescription();
-        return "editUI";
+        return "saveUI";
     }
 
     public String edit() throws Exception{

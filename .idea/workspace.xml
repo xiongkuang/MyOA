@@ -2,1161 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47042f60-8546-48e1-b582-dbea8f362ccf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_address.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_blockquote.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_div.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_h1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_h2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_h3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_h4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_h5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_h6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/block_pre.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/fck_anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/fck_flashlogo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/fck_hiddenfield.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/fck_pagebreak.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/images/fck_plugin.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/common/images/locked.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/common/images/reset.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/common/images/unlocked.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_about/logo_fckeditor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_about/logo_fredck.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_about/sponsors/spellchecker_net.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_template/images/template1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_template/images/template2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_template/images/template3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/ButtonArrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/Folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/Folder32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/FolderOpened.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/FolderOpened32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/FolderUp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/ai.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/avi.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/bmp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/cs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/default.icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/dll.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/doc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/exe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/fla.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/gif.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/htm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/html.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/jpg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/js.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/mdb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/mp3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/pdf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/png.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/ppt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/rdp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/swf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/swt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/txt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/vsd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/xls.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/xml.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/32/zip.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/ai.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/avi.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/bmp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/cs.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/default.icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/dll.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/doc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/exe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/fla.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/gif.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/htm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/html.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/jpg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/js.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/mdb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/mp3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/pdf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/png.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/ppt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/rdp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/swf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/swt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/txt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/vsd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/xls.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/xml.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/icons/zip.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/arrow_ltr.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/arrow_rtl.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/angel_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/angry_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/broken_heart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/cake.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/confused_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/cry_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/devil_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/embaressed_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/envelope.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/heart.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/lightbulb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/omg_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/regular_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/sad_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/shades_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/teeth_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/thumbs_down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/thumbs_up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/tounge_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/whatchutalkingabout_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/msn/wink_smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/72.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/73.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/74.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/75.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/76.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/77.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/78.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/79.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/80.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/81.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/82.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/83.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/84.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/85.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/86.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/87.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/88.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/89.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/90.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/91.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/92.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/93.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/94.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/95.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/96.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/97.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/smiley/wangwang/98.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/images/spacer.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/placeholder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/fck_strip.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/dialog.sides.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/dialog.sides.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/dialog.sides.rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/sprites.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.arrowright.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.buttonarrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.collapse.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.expand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.separator.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/images/toolbar.start.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/fck_strip.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/dialog.sides.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/dialog.sides.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/dialog.sides.rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/sprites.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.arrowright.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.buttonarrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.collapse.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.expand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.separator.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/images/toolbar.start.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/fck_strip.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/dialog.sides.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/dialog.sides.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/dialog.sides.rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/sprites.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.arrowright.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.buttonarrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.buttonbg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.collapse.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.expand.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.separator.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/images/toolbar.start.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/file.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/folder-closed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-black-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-black.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-default-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-famfamfam-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-famfamfam.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-gray-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-gray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-red-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/images/treeview-red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/1menu_btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/1menu_btn_bg_selected.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/2311_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/2311_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/2311_3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/2311_4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/2311_5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/2311_6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/adage_bottom_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/adage_bottom_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/adage_top_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/adage_top_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/ar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/arrow_d.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/awokeBtnBorder_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/awokeBtn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/bg_input_text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/bg_input_text_hover.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/browser_title_bar_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btnBg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btnLeft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btnRight.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_all_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_all_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_to_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/btn_to_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/ReturnToPrevLevel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/addNew.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/agree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/agreeAndSave.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/deployProcessDef.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/disagree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/disagreeAndSave.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/goBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/publishNewTopic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/query.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/saveToDraftBox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/select.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/send.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/sendBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/button/submit.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/buttonUpload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/calendar_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/calendar_now.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/chat_func_line1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/chat_func_line2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/dashed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/date_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00001.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00002.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00003.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00004.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00005.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00006.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00007.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00008.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00009.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00010.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00012.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00013.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00014.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00015.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00016.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00017.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00018.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00019.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00020.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00021.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00023.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00024.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00025.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/FUNC00026.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/define.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/leftMenu.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/list.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/min.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/more.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/refresh.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop/revert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_bar_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_bar_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_bar_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_bar_underline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_right_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_right_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_right_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_right_votting_line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/desktop_votting_button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/folder2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/func_btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/func_btn_bg_nobottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/func_btn_head_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/func_btn_head_bg_nobottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/func_btn_tail_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/func_btn_tail_bg_nobottom.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/go.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/head2_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/index_bar_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/index_bar_left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/index_bar_right.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/index_bar_underline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/inputPageHeadBg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/item_point.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/item_title_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/item_title_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/imgCode.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/language.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/password.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/selectSystem.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/style.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/userId.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login/userLogin_button.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/login_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logo_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logout/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logout/logout.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logout/logout1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logout/logout2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/logout/logout3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_arrow_close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_arrow_open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_arrow_point.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_arrow_single.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_bg_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_bg_3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_bg_head.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_btn_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_btn_bg_selected.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_head_title.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_line_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/menu_line_3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/msg_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigationBg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_01.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_02.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_04.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_05.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_06.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_07.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_08.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_09.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/navigation_10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/newMsgLine.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/firstPage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/firstPage2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/forward10page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/lastPage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/lastPage2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector/prev10page.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pageSelector_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pannel_day.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pannel_month.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pannel_point.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/pannel_week.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/photBackColor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/point.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/search.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/tab_page_head.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/tag_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/tag_head.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/tag_line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/tag_tail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/title_bar_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/title_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/title_bg_end.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/title_bg_head.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top/desktop.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top/help.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top/logout.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top/search.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top/version.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/top_left_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/upload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/uploadFile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/version_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/images/∏¥º˛ logo.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/107.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/EIE.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/bmp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/chm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/csv.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/dll.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/doc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/eml.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/excel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/exe.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/folder2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/font.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/gif-0700.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/gif-0705.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/gif-0707.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/gif.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/hlp.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/icq.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/ie.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/ini.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/java.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/jpeg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/link.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/mdb.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/media.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/pdf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/pps.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/ppt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/project.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/psd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/raq.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/rar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/rtf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/shareFolder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/sql.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/swf.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/sys.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/txt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/vsd.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/wab.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/wie.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/xml.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/FileType/zip.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20001.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20007.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20022.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20024.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20029.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20030.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20054.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20056.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20057.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20064.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20065.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20069.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20070.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20071.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20076.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20077.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20082.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20088.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC20101.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC220000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC235000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC23700.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC241000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC249000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC251000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC261000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/FUNC55000.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/address.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/clock.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/ie.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/mail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/menu_arrow_close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/menu_arrow_open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/menu_arrow_single.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/menu_line_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/menu_line_3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/msg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/radio_blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/radio_green.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/radio_red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/shoutCut.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/trace.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/userMenuDefault.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/MenuIcon/waitThing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/active.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/arrow_close.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/arrow_open.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/attachmenttitle.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/buttonUpload.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/bold.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/bullist.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/cal.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/flash.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/formbutton.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/formcheckbox.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/formdropdown.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/formmacro.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/formtext.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/formtextarea.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/head.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/hr.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/image.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/italic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/jcenter.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/jleft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/jright.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/link.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/numlist.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/ol.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/separator.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/sql.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/tableinsert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/ul.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/underline.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/11line7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/line/line9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/0916.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/0920.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/1101.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/1110.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/1610.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/1710.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/1810.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/2203.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/2319.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/3405.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/3611.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/3905.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/4003.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/4105.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/4115.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/4120.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/5511.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/navigation/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/usermenu_ico/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/usermenu_ico/userMenuDefault.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/createNew.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/defaultAvatar.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/edit.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/face/face9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/find.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/folder_up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forum_comm.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forum_hot.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forum_lock.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forum_top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forumpage1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forumpage2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forumpage3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/forumpage4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/gif_57_051.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/goBack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/help.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/icq.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/insert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/item_title_bg1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/left.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/new.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/no_active.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/nosub.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/ok1.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/point_blue.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/priority.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/quote.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/reply.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/save.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/search.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/selected.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/tableInsert.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_cancel.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_date.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_down.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_last.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_next.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_save.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/time_up.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/title_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/title_bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/client.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/help.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/mail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/msg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/record.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/sendDoc.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/task.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/text.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/trace.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/user.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/user_setup.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/top/wait.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/topicType_0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/topicType_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/topicType_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/txt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/uploadSelectedFiles.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/user.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/vote.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/votelock.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/a_nothing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/b_nothing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/nothing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/r_b.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/r_t1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/tem1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/tem2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/tem3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/tem4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/tem5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/old/addUI.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/old/editUI.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/old/list.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/DataShowManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/DemoData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/PageUtils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/default_fckconfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/demo_20091026.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/demo_20100807.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckcontextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdataprocessor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdocumentfragment_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdocumentfragment_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdomrange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdomrange_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdomrange_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckdomrangeiterator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckeditingarea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckelementpath.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckenterkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckhtmliterator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckicon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckiecleanup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckimagepreloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckkeystrokehandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckmenublock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckmenublockpanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckmenuitem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckpanel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckspecialcombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckstyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarbreak_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarbreak_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarbutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarbuttonui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarfontformatcombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarfontscombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarfontsizecombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarpanelbutton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarspecialcombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fcktoolbarstylecombo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckw3crange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckxml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckxml_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/classes/fckxml_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fck_othercommands.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckblockquotecommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckcorestylecommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckfitwindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckindentcommands.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckjustifycommands.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fcklistcommands.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fcknamedcommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckpasteplaintextcommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckpastewordcommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckremoveformatcommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckshowblocks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckspellcheckcommand_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fckstylecommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fcktablecommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/commandclasses/fcktextcolorcommand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/fckconstants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/fckeditorapi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/fckjscoreextensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/fckscriptloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fck_contextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fck_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fck_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckbrowserinfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckcodeformatter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckcommands.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckconfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckdebug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckdebug_empty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckdialog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckdocumentprocessor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckdomtools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcklanguagemanager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcklisthandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcklistslib.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckplugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckregexlib.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckselection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckselection_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckselection_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckstyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktablehandler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktablehandler_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktablehandler_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktoolbaritems.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktoolbarset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktools_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fcktools_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckundo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckurlparams.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckxhtml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckxhtml_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckxhtml_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/_source/internals/fckxhtmlentities.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/behaviors/disablehandles.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/behaviors/showtableborders.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/fck_editorarea.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/fck_internal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/css/fck_showtableborders_gecko.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/common/fck_dialog_common.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/common/fck_dialog_common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_anchor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_button.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_colorselector.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_div.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_docprops.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_docprops/fck_document_preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_flash.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_flash/fck_flash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_flash/fck_flash_preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_hiddenfield.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_image/fck_image.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_image/fck_image_preview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_link/fck_link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_listprop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_paste.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_radiobutton.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_replace.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_select/fck_select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_smiley.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_source.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_specialchar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/controlWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/controls.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellChecker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellchecker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerStyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_spellerpages/spellerpages/wordWindow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_table.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_tablecell.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_textarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dialog/fck_textfield.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dtd/fck_dtd_test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dtd/fck_xhtml10strict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/dtd/fck_xhtml10transitional.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/fckdebug.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/fckdialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/fckeditor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/fckeditor.original.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/browser.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/browser.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/frmactualfolder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/frmcreatefolder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/frmfolders.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/frmresourceslist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/frmresourcetype.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/frmupload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/js/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/browser/default/js/fckxml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/basexml.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/class_upload.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/commands.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/config.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/connector.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/io.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/upload.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/asp/util.asp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/aspx/config.ascx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/aspx/connector.aspx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/aspx/upload.aspx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/ImageObject.cfc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf5_connector.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf5_upload.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf_basexml.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf_commands.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf_connector.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf_io.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf_upload.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/cf_util.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/config.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/connector.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/image.cfc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/cfm/upload.cfm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/lasso/config.lasso" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/lasso/connector.lasso" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/lasso/upload.lasso" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/basexml.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/commands.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/connector.cgi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/io.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/upload.cgi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/upload_fck.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/perl/util.pl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/basexml.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/commands.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/connector.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/io.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/phpcompat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/upload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/php/util.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/connector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/fckcommands.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/fckconnector.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/fckoutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/fckutil.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/htaccess.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/upload.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/py/zope.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/filemanager/connectors/uploadtest.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/js/fckadobeair.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/js/fckeditorcode_gecko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/js/fckeditorcode_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/_translationstatus.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/af.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/bn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/bs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/en-au.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/en-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/en-uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/eo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/fo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/fr-ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/gu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/mn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/no.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/pt-br.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/sr-latn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/zh-cn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/lang/zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/autogrow/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/bbcode/_sample/sample.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/bbcode/_sample/sample.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/bbcode/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/dragresizetable/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/fck_placeholder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/lang/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/lang/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/lang/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/lang/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/lang/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/placeholder/lang/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/simplecommands/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/plugins/tablecommands/fckplugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/_fckviewstrips.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/fck_dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/fck_dialog_ie6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/default/fck_editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/fck_dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/fck_dialog_ie6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/office2003/fck_editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/fck_dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/fck_dialog_ie6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/editor/skins/silver/fck_editor.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fckconfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fckdemo_20090627_ReplaceTextarea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fckeditor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fckeditorDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fckpackager.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fckstyles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/fcktemplates.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/fckeditor/myconfig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/jquery.treeview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_treeview/jquery.treeview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_validate/jquery.metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/jquery_validate/jquery.validate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/script/pageCommon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/file.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/forum.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/logout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/pageCommon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/selectPerson.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/statusbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/blue/top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/comm/html/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/style/images/weather/Read me.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/addUI.jsp" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/editUI.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/saveUI.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/MyOA_war_exploded/WEB-INF/jsp/roleAction/list.jsp" afterPath="$PROJECT_DIR$/out/artifacts/MyOA_war_exploded/WEB-INF/jsp/roleAction/list.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/addUI.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/addUI.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/editUI.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/editUI.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/list.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/list.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/struts.xml" afterPath="$PROJECT_DIR$/config/struts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java" afterPath="$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java" />
     </list>
     <ignored path="MyOA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1202,23 +52,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addUI.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/addUI.jsp">
+      <file leaf-file-name="saveUI.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/saveUI.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6691176">
+              <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="editUI.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/editUI.jsp">
+      <file leaf-file-name="RoleAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9133858">
-              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/struts.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.3584905">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -1275,12 +140,10 @@
         <option value="$PROJECT_DIR$/src/com/MyOa/domain/Role.hbm.xml" />
         <option value="$PROJECT_DIR$/config/hibernate.cfg.xml" />
         <option value="$PROJECT_DIR$/test/com/MyOa/test/TestAction.java" />
-        <option value="$PROJECT_DIR$/config/struts.xml" />
         <option value="$PROJECT_DIR$/src/com/MyOa/service/impl/RoleService.java" />
         <option value="$PROJECT_DIR$/src/com/MyOa/dao/impl/RoleDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/com/MyOa/service/RoleService.java" />
         <option value="$PROJECT_DIR$/src/com/MyOa/service/impl/RoleServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java" />
         <option value="$PROJECT_DIR$/web/style/blue/file.css" />
         <option value="$PROJECT_DIR$/web/style/blue/forum.css" />
         <option value="$PROJECT_DIR$/web/style/blue/logout.css" />
@@ -1291,6 +154,9 @@
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/list.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/addUI.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/editUI.jsp" />
+        <option value="$PROJECT_DIR$/config/struts.xml" />
+        <option value="$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/saveUI.jsp" />
       </list>
     </option>
   </component>
@@ -2407,7 +1273,7 @@
       <workItem from="1457768075745" duration="124000" />
       <workItem from="1457768232084" duration="122000" />
       <workItem from="1457796542285" duration="9856000" />
-      <workItem from="1457813341881" duration="4243000" />
+      <workItem from="1457813341881" duration="4739000" />
     </task>
     <servers />
   </component>
@@ -2444,7 +1310,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47607000" />
+    <option name="totallyTimeSpent" value="48103000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2468,7 +1334,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32846716" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32846716" sideWeight="0.493517" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -2750,17 +1616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/struts.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/old/editUI.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2782,18 +1637,6 @@
         <state vertical-scroll-proportion="0.8263889">
           <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.20833333">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2829,18 +1672,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/addUI.jsp">
+    <entry file="file://$PROJECT_DIR$/src/com/MyOa/view/action/RoleAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/editUI.jsp">
+    <entry file="file://$PROJECT_DIR$/config/struts.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9133858">
-          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        <state vertical-scroll-proportion="-7.3584905">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/roleAction/saveUI.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6691176">
+          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
           <folding />
         </state>
       </provider>
