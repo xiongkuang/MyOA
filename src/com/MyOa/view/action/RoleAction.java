@@ -16,7 +16,7 @@ import java.util.List;
  */
 @Controller
 @Scope("prototype")
-public class RoleAction extends ActionSupport{
+public class RoleAction extends ActionSupport {
 
     @Resource
     private RoleService roleService;
@@ -56,9 +56,9 @@ public class RoleAction extends ActionSupport{
     public String editUI() throws Exception{
         //prepare feedback data
         Role role = roleService.getById(id);
-        //ActionContext.getContext().getValueStack().push(role);
-        this.name = role.getName();
-        this.description = role.getDescription();
+        ActionContext.getContext().getValueStack().push(role);//use ognl to find value in stack
+        //this.name = role.getName();
+        //this.description = role.getDescription();
         return "editUI";
     }
 

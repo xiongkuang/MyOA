@@ -15,6 +15,7 @@
     EditUI
     <s:form action = "role_edit">
       <s:hidden name="id"></s:hidden>
+      <%-- the same with use ognl: s:textfield name="name" value="%{name}"--%>
       <s:textfield name="name"></s:textfield>
       <s:textarea name="description"></s:textarea>
       <s:submit value="Submit"></s:submit>

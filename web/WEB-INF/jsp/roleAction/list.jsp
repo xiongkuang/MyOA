@@ -12,7 +12,7 @@
     <title>List</title>
   </head>
   <body>
-  <s:iterator value="#roleList">
+  <s:iterator value="%{#roleList}">
     <s:property value="id"/>
     <s:property value="name"/>
     <s:property value="description"/>
