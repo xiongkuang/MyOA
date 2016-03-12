@@ -4,6 +4,7 @@ import com.MyOa.domain.Role;
 import com.MyOa.service.RoleService;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
+import com.opensymphony.xwork2.ModelDriven;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
 
@@ -16,15 +17,21 @@ import java.util.List;
  */
 @Controller
 @Scope("prototype")
-public class RoleAction extends ActionSupport {
+public class RoleAction extends ActionSupport implements ModelDriven {
 
     @Resource
     private RoleService roleService;
 
-    private Long id;
-    private String name;
-    private String description;
+//    private Long id;
+//    private String name;
+//    private String description;
 
+    private Role model = new Role();
+
+    @Override
+    public Object getModel() {
+        return model;
+    }
 
     public String list() throws Exception{
         List<Role> roleList = roleService.findAll();
@@ -33,7 +40,7 @@ public class RoleAction extends ActionSupport {
     }
 
     public String delete() throws Exception{
-        roleService.delete(id);
+        roleService.delete(model.getId());
         return "toList";
     }
 
@@ -44,8 +51,8 @@ public class RoleAction extends ActionSupport {
     public String add() throws Exception{
         //encapsulate to object
         Role role = new Role();
-        role.setName(name);
-        role.setDescription(description);
+        role.setName(model.getName());
+        role.setDescription(model.getDescription());
 
         //save to database
         roleService.save(role);
@@ -55,7 +62,7 @@ public class RoleAction extends ActionSupport {
 
     public String editUI() throws Exception{
         //prepare feedback data
-        Role role = roleService.getById(id);
+        Role role = roleService.getById(model.getId());
         ActionContext.getContext().getValueStack().push(role);//use ognl to find value in stack
         //this.name = role.getName();
         //this.description = role.getDescription();
@@ -64,11 +71,11 @@ public class RoleAction extends ActionSupport {
 
     public String edit() throws Exception{
         //1, get the original object from the database
-        Role role = roleService.getById(id);
+        Role role = roleService.getById(model.getId());
 
         //2, set the attributes
-        role.setName(name);
-        role.setDescription(description);
+        role.setName(model.getName());
+        role.setDescription(model.getDescription());
 
         //3, update database
 
@@ -79,27 +86,27 @@ public class RoleAction extends ActionSupport {
 
     //getter and setter
 
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
+//    public Long getId() {
+//        return id;
+//    }
+//
+//    public void setId(Long id) {
+//        this.id = id;
+//    }
+//
+//    public String getName() {
+//        return name;
+//    }
+//
+//    public void setName(String name) {
+//        this.name = name;
+//    }
+//
+//    public String getDescription() {
+//        return description;
+//    }
+//
+//    public void setDescription(String description) {
+//        this.description = description;
+//    }
 }
