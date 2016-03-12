@@ -14,7 +14,7 @@ public class TestAction extends ActionSupport {
     @Override
     public String execute() throws Exception {
         System.out.println("----->TestAction-excute()");
-        testService.saveTwoUsers();
+        //testService.saveTwoUsers();
         return "success";
     }
 }
