@@ -21,6 +21,7 @@
         <!-- import mapping file -->
         <mapping resource="com/MyOa/domain/User.hbm.xml"/>
         <mapping resource="com/MyOa/domain/Role.hbm.xml"/>
+        <mapping resource="com/MyOa/domain/Department.hbm.xml"/>
 
     </session-factory>
 </hibernate-configuration>
