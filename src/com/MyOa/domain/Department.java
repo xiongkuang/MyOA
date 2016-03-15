@@ -1,10 +1,16 @@
 package com.MyOa.domain;
 
+import java.util.HashSet;
+import java.util.Set;
+
 /**
  * Created by xiongkuang on 3/14/16.
  */
 public class Department {
     private Long id;
+    private Set<User> users = new HashSet<User>();
+    private Department parent;
+    private Set<Department> children = new HashSet<Department>();
     private String name;
     private String description;
 
@@ -30,5 +36,29 @@ public class Department {
 
     public void setDescription(String description) {
         this.description = description;
+    }
+
+    public Set<User> getUsers() {
+        return users;
+    }
+
+    public void setUsers(Set<User> users) {
+        this.users = users;
+    }
+
+    public Department getParent() {
+        return parent;
+    }
+
+    public void setParent(Department parent) {
+        this.parent = parent;
+    }
+
+    public Set<Department> getChildren() {
+        return children;
+    }
+
+    public void setChildren(Set<Department> children) {
+        this.children = children;
     }
 }

@@ -8,6 +8,22 @@
 		<id name="id" type="long">
             <generator class="native"/>
 		</id>
+		<property name="loginName" type="string"  />
+		<property name="passWord" type="string"  />
 		<property name="name" type="string"  />
+		<property name="gender" type="string"  />
+		<property name="phoneNumber" type="string"  />
+		<property name="email" type="string"  />
+		<property name="description" type="string"  />
+
+		<!--department, many to one with Department-->
+		<many-to-one name="department" class="Department" column="departmentId"></many-to-one>
+
+		<!--roles, many to many with Role-->
+		<set name="roles" table="kk_user_role">
+			<key column="userId"></key>
+			<many-to-many class="Role" column="roleId"/>
+		</set>
+
 	</class>
 </hibernate-mapping>

@@ -10,5 +10,12 @@
 		</id>
 		<property name="name" type="string"  />
 		<property name="description" type="string"  />
+
+		<!-- users, many to many to User-->
+		<set name="users" table="kk_user_role">
+			<key column="roleId"></key>
+			<many-to-many class="User" column="userId"/>
+		</set>
+
 	</class>
 </hibernate-mapping>
