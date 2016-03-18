@@ -2,6 +2,7 @@ package com.MyOa.view.action;
 
 import com.MyOa.domain.Department;
 import com.MyOa.service.DepartmentService;
+import com.MyOa.util.DepartmentUtils;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
@@ -50,7 +51,9 @@ public class DepartmentAction extends ActionSupport implements ModelDriven<Depar
 
     public String addUI() throws Exception{
         //prepare data departmentlist
-        List<Department> departmentList = departmentService.findAll();
+        //List<Department> departmentList = departmentService.findAll();
+        List<Department> topList = departmentService.findTopList();
+        List<Department> departmentList = DepartmentUtils.getAllDepartments(topList);
         ActionContext.getContext().put("departmentList", departmentList);
         return "saveUI";
     }
@@ -64,7 +67,10 @@ public class DepartmentAction extends ActionSupport implements ModelDriven<Depar
     }
 
     public String editUI() throws Exception{
-        List<Department> departmentList = departmentService.findAll();
+//        List<Department> departmentList = departmentService.findAll();
+//        ActionContext.getContext().put("departmentList", departmentList);
+        List<Department> topList = departmentService.findTopList();
+        List<Department> departmentList = DepartmentUtils.getAllDepartments(topList);
         ActionContext.getContext().put("departmentList", departmentList);
 
         Department department = departmentService.getById(model.getId());
