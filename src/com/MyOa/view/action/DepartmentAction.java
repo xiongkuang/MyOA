@@ -30,8 +30,16 @@ public class DepartmentAction extends ActionSupport implements ModelDriven<Depar
     }
 
     public String list() throws Exception{
-        List<Department> departmentList = departmentService.findAll();
+        List<Department> departmentList = null;
+        if (parentId == null){
+            departmentList = departmentService.findTopList();
+        }else {
+            departmentList = departmentService.findChildren(parentId);
+            Department parent = departmentService.getById(parentId);
+            ActionContext.getContext().put("parent",parent);
+        }
         ActionContext.getContext().put("departmentList",departmentList);
+
         return "list";
     }
 

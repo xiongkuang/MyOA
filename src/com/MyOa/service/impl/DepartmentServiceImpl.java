@@ -3,6 +3,7 @@ package com.MyOa.service.impl;
 import com.MyOa.dao.DepartmentDao;
 import com.MyOa.domain.Department;
 import com.MyOa.service.DepartmentService;
+import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -18,6 +19,9 @@ public class DepartmentServiceImpl implements DepartmentService {
 
     @Resource
     private DepartmentDao departmentDao;
+
+    @Resource
+    private SessionFactory sessionFactory;
 
 
     @Override
@@ -45,5 +49,20 @@ public class DepartmentServiceImpl implements DepartmentService {
     @Override
     public void update(Department department) {
         departmentDao.update(department);
+    }
+
+    @Override
+    public List<Department> findTopList() {
+        return sessionFactory.getCurrentSession().createQuery(//
+                "FROM Department d WHERE d.parent IS NULL")//
+                .list();
+    }
+
+    @Override
+    public List<Department> findChildren(Long parentId) {
+        return sessionFactory.getCurrentSession().createQuery(//
+                "FROM Department d WHERE d.parent.id = ?")//
+                .setParameter(0,parentId)//
+                .list();
     }
 }
