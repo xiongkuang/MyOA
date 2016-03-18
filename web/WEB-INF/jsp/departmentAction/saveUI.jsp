@@ -44,7 +44,7 @@
                         <td>
                             <s:select name="parentId" cssClass="SelectStyle"
                                       list="#departmentList" listKey="id" listValue="name"
-                                      headerKey="" headerValue="==请选择部门=="
+                                      headerKey="" headerValue="Choose Department"
                             />
                         </td>
                     </tr>

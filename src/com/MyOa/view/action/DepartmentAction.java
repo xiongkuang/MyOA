@@ -17,18 +17,10 @@ import java.util.List;
  */
 @Controller
 @Scope("prototype")
-public class DepartmentAction extends ActionSupport implements ModelDriven<Department> {
-    @Resource
-    private DepartmentService departmentService;
+public class DepartmentAction extends BaseAction<Department>  {
+
 
     private Long parentId;
-
-    private Department model = new Department();
-
-    @Override
-    public Department getModel() {
-        return model;
-    }
 
     public String list() throws Exception{
         List<Department> departmentList = null;

@@ -17,21 +17,10 @@ import java.util.List;
  */
 @Controller
 @Scope("prototype")
-public class RoleAction extends ActionSupport implements ModelDriven {
-
-    @Resource
-    private RoleService roleService;
-
+public class RoleAction extends BaseAction<Role> {
 //    private Long id;
 //    private String name;
 //    private String description;
-
-    private Role model = new Role();
-
-    @Override
-    public Object getModel() {
-        return model;
-    }
 
     public String list() throws Exception{
         List<Role> roleList = roleService.findAll();
