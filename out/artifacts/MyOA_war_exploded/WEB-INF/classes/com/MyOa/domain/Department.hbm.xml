@@ -3,6 +3,7 @@
         "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
         "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
 
+
 <hibernate-mapping package="com.MyOa.domain">
 	<class name="Department" table="kk_department">
 		<id name="id" type="long">
@@ -10,5 +11,21 @@
 		</id>
 		<property name="name" type="string"  />
 		<property name="description" type="string"  />
+
+		<!-- users, one to many with User-->
+		<set name="users">
+			<key column="departmentId"></key>
+			<one-to-many class="User"/>
+		</set>
+
+		<!-- parent, many to one to department-->
+		<many-to-one name="parent" class="Department" column="parentId"></many-to-one>
+
+		<!-- children, one to many to Department-->
+		<set name="children" cascade="delete" order-by="id ASC">
+			<key column="parentId"></key>
+			<one-to-many class="Department"/>
+		</set>
+
 	</class>
 </hibernate-mapping>

@@ -4,10 +4,6 @@
 var alreadyOpenTableId = null;
 var hrefBaseValue = null;
 
-var basePath = "";
-var SubImg = basePath + 'style/images/MenuIcon/menu_arrow_close.gif';
-var SubImgOpen = basePath + 'style/images/MenuIcon/menu_arrow_open.gif';
-
 function closeMenu() {
 	if (alreadyOpenTableId == null) return;
 	alreadyOpenTable = document.getElementById(alreadyOpenTableId); // document.all(alreadyOpenTableId);
@@ -17,11 +13,19 @@ function closeMenu() {
 	alreadyOpenTableId = null;
 }
 
-	function menuClick(topMenuDiv){
-		$(".MenuLevel2").not( $(topMenuDiv).siblings("ul") ).hide();
-		$(topMenuDiv).siblings("ul").toggle();
+function menuClick(tableSrc) {
+	var currentTableSrc = tableSrc;
+	if (currentTableSrc.id != alreadyOpenTableId) closeMenu();
+    targetTableId = currentTableSrc.id+"d";
+    targetTable = document.getElementById(targetTableId); // document.all(targetTableId); 
+    if (targetTable.style.display == "none") {
+        targetTable.style.display = '';
+		alreadyOpenTableId = currentTableSrc.id;
+    } else {
+        targetTable.style.display = "none";
 	}
-	
+}
+
 function subMenuClick(tableSrc) {
     subTableId = tableSrc.id+"d";
     subTable = document.getElementById(subTableId); // document.all(subTableId);

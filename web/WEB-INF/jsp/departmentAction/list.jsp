@@ -5,6 +5,7 @@
   Time: 02:12
   To change this template use File | Settings | File Templates.
 --%>
+
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="s" uri="/struts-tags" %>
 
@@ -52,7 +53,7 @@
             <td>${parent.name}&nbsp;</td>
             <td>${description}&nbsp;</td>
             <td>
-                <s:a action="department_delete?id=%{id}" onClick="return window.confirm('这将删除所有的下级部门，您确定要删除吗？')" href="#">Delete</s:a>
+                <s:a action="department_delete?id=%{id}" onClick="return confirm('Delete?')" >Delete</s:a>
                 <s:a action="department_editUI?id=%{id}">Edit</s:a>
             </td>
         </tr>

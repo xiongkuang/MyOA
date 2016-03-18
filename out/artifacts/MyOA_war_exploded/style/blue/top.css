@@ -25,7 +25,7 @@ ul {
 #Head1 {
 	width: 100%;
 	height: 64px;
-	border: 0px solid #FFFFFF;
+	border: 0px solid #FFFFF;
 	margin: 0px auto;
 	background: url(images/top_bg.gif) repeat-x;
 }
@@ -48,7 +48,7 @@ ul {
 	filter: progid:DXImageTransform.Microsoft.gradient(startcolorstr=#014f83,endcolorstr=#2b6798,gradientType=1);
 	padding-top: 6px;
 	font-size: 12px;
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	color: #b3e1ff;
 }
 
@@ -62,7 +62,7 @@ ul {
 	height: 100%;
 	padding-top: 7px;
 	font-size: 12px;
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	color: #75abd2;
 }
 
@@ -75,7 +75,7 @@ ul {
 	background:#2b6798;
 	cursor: hand;
 	font-size: 12px;
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	color: #f6d881;
 }
 
@@ -90,7 +90,7 @@ ul {
 
 #Head1Right_Time {
 	font-size: 12px;
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	color: #b3e1ff;
 	float: left;
 	height: 100%;
@@ -141,7 +141,7 @@ ul {
 }
 
 #Head2_Awoke A {
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	font-size: 12px;
 	color: #ffffff;
 	TEXT-DECORATION: none
@@ -158,14 +158,14 @@ ul {
 	float: right;
 	height: 100%;
 	padding-right: 26px;
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	font-size: 13px;
 	color: #ffffff;
 	padding-top: 10px;
 }
 
 #Head2_FunctionList td {
-	font-family: "ï¿½ï¿½ï¿½ï¿½";
+	font-family: "ËÎÌå";
 	font-size: 12px;
 	color:#FFFFFF;
 	font-weight:bold;
@@ -204,7 +204,7 @@ ul {
 
 .Menu_head_Table {
 	border: solid 1px #D1D1D1;
-	filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#F8F8F8,endColorStr=#DDDDDD);
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#F8F8F8,endColorStr=#DDDDDD);
 }
 
 .Menu_head_Title {
@@ -214,7 +214,7 @@ ul {
 }
 
 .Menu_layer1_Table {
-	filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#A9C6FF,endColorStr=#CFE5F9);
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#A9C6FF,endColorStr=#CFE5F9);
 }
 
 .Menu_layer1_Title {
@@ -224,7 +224,7 @@ ul {
 }
 
 .Menu_layer2_Table {
-	filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#C0D6FF,endColorStr=#D6ffFF);
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=1,startColorStr=#C0D6FF,endColorStr=#D6ffFF);
 }
 
 .Menu_layer2_Title {

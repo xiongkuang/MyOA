@@ -8,7 +8,7 @@ import java.util.List;
  * Created by xiongkuang on 3/14/16.
  */
 public interface DepartmentService {
-    List<Department> findeAll();
+    List<Department> findAll();
 
     void delete(Long id);
 

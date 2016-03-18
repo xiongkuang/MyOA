@@ -21,7 +21,7 @@ public class DepartmentServiceImpl implements DepartmentService {
 
 
     @Override
-    public List<Department> findeAll() {
+    public List<Department> findAll() {
         return departmentDao.findAll();
     }
 

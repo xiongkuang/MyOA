@@ -6,7 +6,7 @@
 .ForumPageTableTitleLeft {
 	border-left: 1px solid #f7f7f7;
 	border-top: 1px solid #f7f7f7;
-	filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#cfe6fb,endColorStr=#acd1f4);
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#cfe6fb,endColorStr=#acd1f4);
 	height: 23px;
 	font-size: 13px;
 	font-weight: bold;
@@ -16,7 +16,7 @@
 .ForumPageTableTitleRight {
 	border-right: 1px solid #f7f7f7;
 	border-top: 1px solid #f7f7f7;
-	filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#cfe6fb,endColorStr=#acd1f4);
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#cfe6fb,endColorStr=#acd1f4);
 	height: 23px;
 	font-size: 13px;
 	font-weight: bold;
@@ -29,7 +29,7 @@
 
 .ForumPageTableTitle {
 	border-top: 1px solid #f7f7f7;
-	filter: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#cfe6fb,endColorStr=#acd1f4);
+	FILTER: progid:DXImageTransform.Microsoft.Gradient(gradientType=0,startColorStr=#cfe6fb,endColorStr=#acd1f4);
 	height: 23px;
 	font-size: 13px;
 	font-weight: bold;

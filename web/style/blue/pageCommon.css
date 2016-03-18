@@ -26,7 +26,7 @@ body {
 	background-color: #F3F9FD;
 	color: #004779;
 	font-size: 12px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 	scrollbar-base-color: #dbecf8;
 	scrollbar-arrow-color: #2a8ed1;
 	scrollbar-track-color: #bdddf2;
@@ -41,7 +41,7 @@ body {
 
 td {
 	font-size: 12px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 }
 
 form table td{
@@ -110,7 +110,7 @@ ul {
 	height: 28px;
 	color: #004a7d;
 	font-size: 14px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 	font-weight: bold;
 	padding-left: 3px;
 	padding-top: 8px;
@@ -140,7 +140,7 @@ ul {
 	padding-right: 20px;
 	color: #004779;
 	font-size: 12px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 }
 
 #Title_FuncBar li.title {
@@ -219,7 +219,7 @@ ul {
 
 #TableTail_inside td {
 	font-size: 12px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 	color: #005791;
 	padding-left: 3px;
 	padding-right: 3px;
@@ -227,7 +227,7 @@ ul {
 
 .ItemBlock_Title {
 	font-size: 13px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 	color: #004a7d;
 	font-weight: bold;
 	text-align: left;
@@ -240,7 +240,7 @@ ul {
 
 .ItemBlock_Title1 {
 	font-size: 13px;
-	font-family: "Arial", "Helvetica", "sans-serif";
+	font-family: 宋体;
 	color: #004a7d;
 	font-weight: bold;
 	text-align: left;
@@ -353,7 +353,7 @@ ul {
 	width: 25%;
 	text-align: left;
 	border: 1px solid #91c0e3;
-	height:600%;
+	height:600;
 }
 
 .ItemBlockBorderList {
@@ -374,7 +374,7 @@ ul {
 	width: 79%;
 	text-align: left;
 	float:right;
-	height:600%;
+	height:600;
 	border-left:1px solid #DFDFDF
 }
 .ItemBlock2 {
@@ -439,7 +439,7 @@ A.OpenWinLink:hover {
 	padding-right:15px;
 }
 #sc{
-	height:60%;
+	height:60;
 	border:1px solid #91c0e3;
 	overflow-y:auto;
 	overflow-x:visible;
@@ -822,7 +822,7 @@ form{
 	BORDER-LEFT: #91c0e3 1px solid; 
 	BORDER-RIGHT: #91c0e3 1px solid; 
 	HEIGHT: auto; 
-	BACKGROUND-COLOR: #F8E5E4;
+	BACKGROUND-COLOR: #F8E5E4
 	color: #004779;
 }
 

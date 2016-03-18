@@ -20,6 +20,8 @@ public class DepartmentAction extends ActionSupport implements ModelDriven<Depar
     @Resource
     private DepartmentService departmentService;
 
+    private Long parentId;
+
     private Department model = new Department();
 
     @Override
@@ -28,7 +30,7 @@ public class DepartmentAction extends ActionSupport implements ModelDriven<Depar
     }
 
     public String list() throws Exception{
-        List<Department> departmentList = departmentService.findeAll();
+        List<Department> departmentList = departmentService.findAll();
         ActionContext.getContext().put("departmentList",departmentList);
         return "list";
     }
@@ -39,25 +41,51 @@ public class DepartmentAction extends ActionSupport implements ModelDriven<Depar
     }
 
     public String addUI() throws Exception{
+        //prepare data departmentlist
+        List<Department> departmentList = departmentService.findAll();
+        ActionContext.getContext().put("departmentList", departmentList);
         return "saveUI";
     }
 
     public String add() throws Exception{
+        Department parent = departmentService.getById(parentId);
+        model.setParent(parent);
+
         departmentService.save(model);
         return "toList";
     }
 
     public String editUI() throws Exception{
+        List<Department> departmentList = departmentService.findAll();
+        ActionContext.getContext().put("departmentList", departmentList);
+
         Department department = departmentService.getById(model.getId());
         ActionContext.getContext().getValueStack().push(department);
+        if (department.getParent() != null){
+            parentId = department.getParent().getId();
+        }
         return "saveUI";
     }
 
     public String edit() throws Exception{
+        //get model from database
         Department department = departmentService.getById(model.getId());
+
+        //edit the attribute
         department.setName(model.getName());
         department.setDescription(model.getDescription());
+        department.setParent(departmentService.getById(parentId));//update the parent department
+
+        //update database
         departmentService.update(department);
         return "toList";
+    }
+
+    public Long getParentId() {
+        return parentId;
+    }
+
+    public void setParentId(Long parentId) {
+        this.parentId = parentId;
     }
 }
