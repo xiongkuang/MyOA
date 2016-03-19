@@ -20,7 +20,7 @@
 <!--显示表单内容-->
 <div id=MainArea>
 
-    <s:form action="user_%{id == null ? 'add' : 'edit'}">
+    <s:form action="user_add">
         <s:hidden name="id"></s:hidden>
 
         <div class="ItemBlock_Title1"><!-- 信息说明 --><div class="ItemBlock_Title1">

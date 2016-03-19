@@ -42,7 +42,8 @@ public class UserAction extends BaseAction<User> {
         List<Role> roleList = roleService.findAll();
         ActionContext.getContext().put("roleList",roleList);
 
-        return "saveUI";
+//        return "saveUI";
+        return "addUI";
     }
 
     public String add() throws Exception {
@@ -83,7 +84,8 @@ public class UserAction extends BaseAction<User> {
                 roleIds[index++] = role.getId();
             }
         }
-        return "saveUI";
+//        return "saveUI";
+        return "editUI";
     }
 
     public String edit() throws Exception {

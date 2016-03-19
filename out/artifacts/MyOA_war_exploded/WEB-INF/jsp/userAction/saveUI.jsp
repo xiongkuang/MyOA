@@ -1,14 +1,4 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: xiongkuang
-  Date: 3/18/16
-  Time: 02:22
-  To change this template use File | Settings | File Templates.
---%>
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
-<%@ taglib prefix="s" uri="/struts-tags" %>
-
-
 <html>
 <head>
     <title>用户信息</title>
