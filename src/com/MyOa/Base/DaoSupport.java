@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * Created by xiongkuang on 3/8/16.
  */
-public interface BaseDao<T> {
+public interface DaoSupport<T> {
     void save(T entity);
 
     void delete(Long id);

@@ -1,14 +1,11 @@
 package com.MyOa.view.action;
 
+import com.MyOa.Base.BaseAction;
 import com.MyOa.domain.Role;
-import com.MyOa.service.RoleService;
 import com.opensymphony.xwork2.ActionContext;
-import com.opensymphony.xwork2.ActionSupport;
-import com.opensymphony.xwork2.ModelDriven;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
 
-import javax.annotation.Resource;
 import java.util.List;
 
 

@@ -1,8 +1,9 @@
-package com.MyOa.view.action;
+package com.MyOa.Base;
 
 import com.MyOa.domain.Department;
 import com.MyOa.service.DepartmentService;
 import com.MyOa.service.RoleService;
+import com.MyOa.service.UserService;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
 
@@ -41,4 +42,7 @@ public abstract class BaseAction<T> extends ActionSupport implements ModelDriven
 
     @Resource
     protected RoleService roleService;
+
+    @Resource
+    protected UserService userService;
 }

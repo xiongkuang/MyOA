@@ -1,5 +1,6 @@
 package com.MyOa.service.impl;
 
+import com.MyOa.Base.DaoSupportImpl;
 import com.MyOa.dao.RoleDao;
 import com.MyOa.domain.Role;
 import com.MyOa.service.RoleService;
@@ -14,33 +15,33 @@ import java.util.List;
  */
 @Service
 @Transactional
-public class RoleServiceImpl implements RoleService {
+public class RoleServiceImpl extends DaoSupportImpl<Role> implements RoleService  {
 
-    @Resource
-    private RoleDao roleDao;
-
-    @Override
-    public List<Role> findAll() {
-        return roleDao.findAll();
-    }
-
-    @Override
-    public void delete(Long id) {
-        roleDao.delete(id);
-    }
-
-    @Override
-    public void save(Role role) {
-        roleDao.save(role);
-    }
-
-    @Override
-    public Role getById(Long id) {
-        return roleDao.getById(id);
-    }
-
-    @Override
-    public void update(Role role) {
-        roleDao.update(role);
-    }
+//    @Resource
+//    private RoleDao roleDao;
+//
+//    @Override
+//    public List<Role> findAll() {
+//        return roleDao.findAll();
+//    }
+//
+//    @Override
+//    public void delete(Long id) {
+//        roleDao.delete(id);
+//    }
+//
+//    @Override
+//    public void save(Role role) {
+//        roleDao.save(role);
+//    }
+//
+//    @Override
+//    public Role getById(Long id) {
+//        return roleDao.getById(id);
+//    }
+//
+//    @Override
+//    public void update(Role role) {
+//        roleDao.update(role);
+//    }
 }

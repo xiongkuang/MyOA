@@ -1,15 +1,12 @@
 package com.MyOa.view.action;
 
+import com.MyOa.Base.BaseAction;
 import com.MyOa.domain.Department;
-import com.MyOa.service.DepartmentService;
 import com.MyOa.util.DepartmentUtils;
 import com.opensymphony.xwork2.ActionContext;
-import com.opensymphony.xwork2.ActionSupport;
-import com.opensymphony.xwork2.ModelDriven;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
 
-import javax.annotation.Resource;
 import java.util.List;
 
 /**
@@ -17,7 +14,7 @@ import java.util.List;
  */
 @Controller
 @Scope("prototype")
-public class DepartmentAction extends BaseAction<Department>  {
+public class DepartmentAction extends BaseAction<Department> {
 
 
     private Long parentId;
