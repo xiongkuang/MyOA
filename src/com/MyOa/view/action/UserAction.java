@@ -6,6 +6,7 @@ import com.MyOa.domain.Role;
 import com.MyOa.domain.User;
 import com.MyOa.util.DepartmentUtils;
 import com.opensymphony.xwork2.ActionContext;
+import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
 
@@ -54,7 +55,8 @@ public class UserAction extends BaseAction<User> {
         List<Role> roleList =roleService.getByIds(roleIds);
         model.setRoles(new HashSet<Role>(roleList));
         //set default password
-        model.setPassWord("1234");
+        String md5Digest = DigestUtils.md5Hex("1234");
+        model.setPassWord(md5Digest);
 
         //to database
         userService.save(model);
@@ -112,8 +114,9 @@ public class UserAction extends BaseAction<User> {
     public String initPassword() throws Exception {
         //get original object
         User user = userService.getById(model.getId());
-        //set the attribute
-        user.setPassWord("1234");
+        //set the attribute,use md5digest
+        String md5Digest = DigestUtils.md5Hex("1234");
+        user.setPassWord(md5Digest);
 
         //update database
         userService.update(user);
