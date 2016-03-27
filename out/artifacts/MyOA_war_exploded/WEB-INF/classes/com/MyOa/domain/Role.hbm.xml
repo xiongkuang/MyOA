@@ -17,5 +17,13 @@
 			<many-to-many class="User" column="userId"/>
 		</set>
 
+		<!-- privileges, many to many to Privilege-->
+		<set name="privileges" table="kk_role_privilege">
+			<key column="roleId"></key>
+			<many-to-many class="Privilege" column="privilegeId"/>
+		</set>
+
+
+
 	</class>
 </hibernate-mapping>
