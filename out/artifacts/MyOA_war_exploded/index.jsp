@@ -11,6 +11,6 @@
     <title>RRR</title>
   </head>
   <body>
-  KKK
+    [${user.name}]
   </body>
 </html>

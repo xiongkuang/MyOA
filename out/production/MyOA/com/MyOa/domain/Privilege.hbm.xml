@@ -13,13 +13,13 @@
 		<property name="url" type="string"  />
 
 		<!-- roles, many to many with Role-->
-		<set name="roles" table="kk_role_privilege">
+		<set name="roles" cascade="delete" table="kk_role_privilege">
 			<key column="privilegeId"></key>
 			<many-to-many class="Role" column="roleId"></many-to-many>
 		</set>
 
 		<!-- parent, many to one to privilege-->
-		<many-to-one name="parent" class="Privilege" column="parentId" ></many-to-one>
+		<many-to-one name="parent" cascade="delete" class="Privilege" column="parentId" ></many-to-one>
 
 		<!-- children, one to many to privilege, //order-by attributes use orderby of sql-->
 		<set name="children" cascade="delete" order-by="id ASC">

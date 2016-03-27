@@ -124,6 +124,37 @@ public class UserAction extends BaseAction<User> {
     }
 
 
+    /**
+     * login, two request
+     * @return
+     */
+
+    public String loginUI() throws Exception{
+        return "loginUI";
+    }
+
+    public String login() throws Exception{
+        User user = userService.findByUserNameAndPassword(model.getLoginName(), model.getPassWord());
+        if (user == null){
+            addFieldError("login", "UserName or Password Error!");
+            return "loginUI";
+        }else {
+            //user login
+            ActionContext.getContext().getSession().put("user",user);
+            return "toIndex";
+        }
+    }
+
+
+    /**
+     * logout, one request
+     * @return
+     */
+    public String logout() throws Exception{
+        ActionContext.getContext().getSession().remove("user");
+        return "logout";
+    }
+
     public Long getDepartmentId() {
         return departmentId;
     }

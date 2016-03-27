@@ -18,7 +18,7 @@
 		</set>
 
 		<!-- privileges, many to many to Privilege-->
-		<set name="privileges" table="kk_role_privilege">
+		<set name="privileges" cascade="delete" table="kk_role_privilege">
 			<key column="roleId"></key>
 			<many-to-many class="Privilege" column="privilegeId"/>
 		</set>
